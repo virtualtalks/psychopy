@@ -2,7 +2,11 @@
 """
 Created on Fri Mar 07 09:18:49 2014
 
+<<<<<<< HEAD
 @author: Sol and Zaheer
+=======
+@author: Sol
+>>>>>>> 6a86b9947385710af8db8ed708ae7eeba303b513
 """
 
 Still TODO for eyetribe interface:
